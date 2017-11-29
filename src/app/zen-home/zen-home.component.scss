@@ -1,0 +1,31 @@
+.headerComponent{
+	height: 10vh;
+	background-color: #e74c3c;
+}
+
+.categoryComponent,.newscontainerComponent,.topvideosComponent{
+	height: 80vh;
+}
+
+.footerComponent{
+	height: 10vh;
+}
+
+.categoryComponent{
+	background-color: #7f8c8d;
+}
+
+.newscontainerComponent{
+	background-color: #ecf0f1;
+	overflow-y:scroll;
+	color: white;
+}
+
+.topvideosComponent{
+	background-color: pink;
+}
+
+.footerComponent{
+	background-color: black;
+	color: white;
+}
